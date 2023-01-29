@@ -1,0 +1,15 @@
+C:\PortfolioProjects\bin\Debug\net7.0\PortfolioProjects.exe
+C:\PortfolioProjects\bin\Debug\net7.0\PortfolioProjects.deps.json
+C:\PortfolioProjects\bin\Debug\net7.0\PortfolioProjects.runtimeconfig.json
+C:\PortfolioProjects\bin\Debug\net7.0\PortfolioProjects.dll
+C:\PortfolioProjects\bin\Debug\net7.0\PortfolioProjects.pdb
+C:\PortfolioProjects\obj\Debug\net7.0\PortfolioProjects.csproj.AssemblyReference.cache
+C:\PortfolioProjects\obj\Debug\net7.0\PortfolioProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\PortfolioProjects\obj\Debug\net7.0\PortfolioProjects.AssemblyInfoInputs.cache
+C:\PortfolioProjects\obj\Debug\net7.0\PortfolioProjects.AssemblyInfo.cs
+C:\PortfolioProjects\obj\Debug\net7.0\PortfolioProjects.csproj.CoreCompileInputs.cache
+C:\PortfolioProjects\obj\Debug\net7.0\PortfolioProjects.dll
+C:\PortfolioProjects\obj\Debug\net7.0\refint\PortfolioProjects.dll
+C:\PortfolioProjects\obj\Debug\net7.0\PortfolioProjects.pdb
+C:\PortfolioProjects\obj\Debug\net7.0\PortfolioProjects.genruntimeconfig.cache
+C:\PortfolioProjects\obj\Debug\net7.0\ref\PortfolioProjects.dll
